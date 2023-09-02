@@ -66,7 +66,7 @@ Name album - Name artist
 '''
 
 sort = {}
-telegram_token = 'token'
+telegram_token = '6358571052:AAEx2HHuKNoq2b6QhSh_6WiV5LtTlhJ2NiI'
 
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
